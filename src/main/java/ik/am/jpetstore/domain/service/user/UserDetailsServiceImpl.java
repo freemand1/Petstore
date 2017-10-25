@@ -17,7 +17,7 @@ import org.springframework.stereotype.Service;
 @Service("userDetailsService")
 public class UserDetailsServiceImpl implements UserDetailsService {
     @Inject
-    protected AccountService accountService;
+    protected AccountService accountService
 
     @Inject
     protected CatalogService catalogService;
