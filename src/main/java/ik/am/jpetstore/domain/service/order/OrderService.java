@@ -6,7 +6,7 @@ import java.util.List;
 
 public interface OrderService {
 
-    void insertOrder(Order order);
+    void insertOrder(Order order)
 
     Order getOrder(int orderId);
 
