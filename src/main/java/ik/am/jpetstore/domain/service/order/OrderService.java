@@ -12,6 +12,6 @@ public interface OrderService {
 
     List<Order> getOrdersByUsername(String username);
 
-    int getNextId(String name);
+    int getNextId(String name)
 
 }
