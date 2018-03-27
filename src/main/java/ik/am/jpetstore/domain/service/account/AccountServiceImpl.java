@@ -31,7 +31,7 @@ import org.springframework.transaction.annotation.Transactional;
 public class AccountServiceImpl implements AccountService {
 
     @Inject
-    private AccountRepository accountRepository;
+    private AccountRepository accountRepository
 
     /*
      * (non-Javadoc)
