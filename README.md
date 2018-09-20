@@ -8,7 +8,3 @@ Original application is available for downloading in the downloads section of My
 
 In this section we will walk through this sample to understand how is it built and learn how to run it.
 
-testmike14
-testariel1
-Test Don  
-One last change
