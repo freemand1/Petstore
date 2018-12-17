@@ -8,4 +8,8 @@ Original application is available for downloading in the downloads section of My
 
 In this section we will walk through this sample to understand how is it built and learn how to run it.
 
-Removed line again.
+Removed line from the readme file.
+
+Trying to see if I can see status update on pull request.
+
+Testing with pipeline
