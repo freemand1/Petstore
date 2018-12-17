@@ -12,7 +12,6 @@
             <url>http://10.7.0.15:8081/nexus/content/repositories/javapetstore</url>
         </repository>
     </distributionManagement>
-    <!-- testing -->
     <pluginRepositories>
         <pluginRepository>
             <id>collabnet</id>
